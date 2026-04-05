@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkrverma&theme=radical" alt="pkrverma" /></a> </p>
 
-- 🔭 I’m currently working on **Secure PHP applications at Ubuy Technologies Private Limited** 🚀
+- 🔭 I’m currently working on **Secure PHP applications at Celebal Technologies** 🚀
 - 🤝 Open to collaborate on **AI-powered ATS platforms & job portals** 💼
 - 🌱 I’m currently learning **TypeScript & advanced React patterns** ⚛️
-- 💬 Ask me about **React, TypeScript, PHP security, MERN stack** 🛠️
+- 💬 Ask me about **Databricks, Apache Spark, SQL** 🛠️
 - 📫 How to reach me **[contact.pkrverma@gmail.com](mailto:contact.pkrverma@gmail.com)** 📧
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/pulkitkrverma/)** ✍️
 - 📄 Know about my experiences **[Resume](https://tinyurl.com/pulkitvermaresume)** 📄
