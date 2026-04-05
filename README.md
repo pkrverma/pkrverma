@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkrverma&theme=radical" alt="pkrverma" /></a> </p>
 
-- 🔭 I’m currently working on **Secure PHP applications at Celebal Technologies** 🚀
+- 🔭 I’m currently working on **developing ETL pipeline at Celebal Technologies** 🚀
 - 🤝 Open to collaborate on **AI-powered ATS platforms & job portals** 💼
 - 🌱 I’m currently learning **TypeScript & advanced React patterns** ⚛️
 - 💬 Ask me about **Databricks, Apache Spark, SQL** 🛠️
